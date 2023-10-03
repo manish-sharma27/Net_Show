@@ -1,0 +1,48 @@
+div{
+    background-color: rgba(0, 0, 0, 0.384);
+    color: white;
+    display: inline-block;
+    margin: auto;
+    padding: auto;
+    border-radius: 5px 10px;
+    overflow: hidden;
+    /* float: center; */
+   
+}
+h1{
+    text-align: center;
+}
+h2{
+    color: red;
+}
+.genre{
+    color: red;
+    text-align: center;
+    
+}
+.title{
+    font-size: large;
+    text-align: center;
+    
+}
+.button{
+    background-color: white;
+    /* text-align: center; */
+}
+.button:hover {
+    background-color: rgb(24, 164, 42); 
+    color: #1071c0; 
+}
+section{
+    display: flex;
+    padding: auto;
+    margin: 30px;
+    margin-left: 100px;
+}
+.express{
+    color: blue;
+    
+}
+
+
+
